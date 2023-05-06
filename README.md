@@ -52,7 +52,7 @@
 
 
 
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harsh-android&layout=compact&theme=synthwave&v=2)
+![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harsh_android&layout=compact&theme=synthwave&v=2)
 
 
 ## 🏆 GitHub Trophies
