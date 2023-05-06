@@ -50,13 +50,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harsh-android&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-android&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-	
+
 
 ![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harsh-android&layout=compact&theme=synthwave&v=2)
 
-
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harsh-android&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
