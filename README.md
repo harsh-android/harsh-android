@@ -63,10 +63,12 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh-android&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh-android&theme=transparent" height="180em" />
 </div>
+	
+[![Textile Billing App](https://github-readme-stats.vercel.app/api/pin/?username=harsh-android&repo=hotsphit)](https://github.com/harsh-android/hotsphit)
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-android&theme=github-compact"/>
-
-[![Textile Billing App](https://github-readme-stats.vercel.app/api/pin/?username=harsh-android&repo=hotsphit)](https://github.com/harsh-android/hotsphit)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
