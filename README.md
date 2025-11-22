@@ -65,7 +65,7 @@
 </div>
 	
 [![Movie Data](https://github-readme-stats.vercel.app/api/pin/?username=harsh-android&repo=Movie-Data-API)](https://github.com/harsh-android/Movie-Data-API)
-[![Textile Billing App](https://github-readme-stats.vercel.app/api/pin/?username=harsh-android&repo=hotsphit)](https://github.com/harsh-android/hotsphit)
+[![Tenant Management](https://github-readme-stats.vercel.app/api/pin/?username=harsh-android&repo=tenant-web)](https://github.com/harsh-android/tenant-web)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
