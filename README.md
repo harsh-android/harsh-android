@@ -47,21 +47,26 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsh-android&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harsh-android&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-android&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-android&hide_progress=true&theme=transparent" alt=harsh-android />
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh-android&show_icons=true&locale=en&theme=transparent" alt="harsh-android" /></p>
 
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-android&theme=transparent" alt="harsh-android" /></p>
 
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harsh_android&layout=compact&theme=synthwave&v=2)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/harsh-android">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-android&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh-android&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh-android&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh-android&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh-android&theme=transparent" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-android&theme=github-compact"/>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harsh-android&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
