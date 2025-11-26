@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-android&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true&base=100" alt="harsh-android" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-android&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=false&base=100" alt="harsh-android" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
