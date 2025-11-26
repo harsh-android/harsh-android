@@ -64,8 +64,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh-android&theme=transparent" height="180em" />
 </div>
 	
-[![Movie Data](https://github-readme-stats.vercel.app/api/pin/?username=harsh-android&repo=Movie-Data-API&theme=transparent)](https://github.com/harsh-android/Movie-Data-API)
-[![Tenant Management](https://github-readme-stats.vercel.app/api/pin/?username=harsh-android&repo=tenant-web&theme=transparent)](https://github.com/harsh-android/tenant-web)
+[![Voice Control Browser](https://github-readme-stats.vercel.app/api/pin/?username=harsh-android&repo=Browser-RPA-Voice&theme=transparent)](https://github.com/harsh-android/Browser-RPA-Voice)
+[![Bulk Form Submitter](https://github-readme-stats.vercel.app/api/pin/?username=harsh-android&repo=bulk-form-submitter&theme=transparent)](https://github.com/harsh-android/bulk-form-submitter)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
